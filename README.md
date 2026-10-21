@@ -7,8 +7,8 @@ On the site: https://vovazakharov.com/music/winter-in-the-forest
 ## Files
 
 - `winter-in-the-forest_mix.mp3` — the mix, unmastered, as a 320 kbps mp3; the lossless WAV the master was made from is [`nostalgia-07-winter-in-the-forest.wav`](https://github.com/vzakharov/vovazakharov.com/releases/download/music-sources/nostalgia-07-winter-in-the-forest.wav).
-- `winter-in-the-forest.flac` — the master, 24-bit.
-- `winter-in-the-forest.master.mp3` — its 320 kbps mp3 copy.
+- `Полуживые - Зима в лесу.flac` — the master, 24-bit.
+- `Полуживые - Зима в лесу.mp3` — its 320 kbps mp3 copy.
 - `mastering/` — the script that made the master: `master.py`, the `spectrum.py` it imports, and their `requirements.txt`.
 
 ## How it was mastered
